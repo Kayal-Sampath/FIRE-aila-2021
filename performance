@@ -1,0 +1,8 @@
+Run  1	BERT-cased	2 epochs	{'eval_loss': 1.0399443359356226, 'mcc': 0.5142537412274628}	
+Run  2	ALBERT	2 epochs	{'eval_loss': 1.1225480007061495, 'mcc': 0.472756334057525}	
+Run  3	Roberta	2 epochs	{'eval_loss': 1.0511224901895198, 'mcc': 0.5062496799200789}	
+Run  4	Labse	2 epochs	{'eval_loss': 0.9894218811682203, 'mcc': 0.5303560960713407}	
+Run  5	BERT-cased	5 epochs	{'eval_loss': 1.5881897207945976, 'mcc': 0.5333906761503847}	Run 2
+Run  6	ALBERT	5 epochs	{'eval_loss': 1.178535031756078, 'mcc': 0.49545137479462115}	
+Run  7	Roberta	5 epochs	{'mcc': 0.5323477650987336, 'eval_loss': 1.2877909204778395}	Run 3
+Run  8	Labse	5 epochs	'mcc': 0.5396248795252866, 'eval_loss': 1.0932081765703017	Run 1
